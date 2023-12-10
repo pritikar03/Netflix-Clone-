@@ -11,7 +11,9 @@ Cross-Browser Compatibility: Compatible with various browsers, providing univers
 Getting Started
 
 Clone the repository: git clone https://github.com/pritikar03/netflix-clone.git
+
 Open index.html in your preferred web browser.
+
 Usage
 
 Explore the Netflix-inspired landing page with dynamic content previews.
